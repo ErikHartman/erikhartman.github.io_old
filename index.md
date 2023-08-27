@@ -53,11 +53,15 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 - [Synthetic biology: Playing God, life or machine, bioterrorism and biotechnological singularities - a reason for urgency](/pages/synthethics.md)
 - [Drop the STEM podcast: Endogenous Peptide as an Alternative to Antibiotics, Sutures Coated with TCP-25 - Erik Hartman](https://soundcloud.com/user-997890267/14-endogenous-peptide-as-an-alternative-to-antibiotics-sutures-coated-with-tcp-25-erik-hartman)
 - [Syntetisk biologi för nybörjare (kursmaterial)](/docs/synthetic-biology-for-beginners.pdf)
+- [AISS Live: Genetics and Artificial Intelligence](https://www.youtube.com/watch?v=lv9vgVm-AEo&t=3274s&ab_channel=TheArtificialIntelligenceStudentSocietyatUP)
+- [Bioterrorism in light of SARS-Cov-2](/pages/corona-epidemic-eye-opener.md)
 
 For the society of young scientists:
 
 - [Läkartidningen debatt: Framtida krisberedskap kräver satsning på unga forskare](https://lakartidningen.se/opinion/debatt/2020/06/framtida-krisberedskap-kraver-satsning-pa-unga-forskare/)
 - [Nobelspecial: Så här funkar cancerbehandling och immunförsvar](https://ungaforskare.se/2018/10/01/nobelspecial-med-erik-hartman-sa-funkar-cancerbehandling-och-immunforsvar/)
+- [Nobelpriset i medicin eller fysiologi 2020](https://ungaforskare.se/2020/10/05/nobelpriset-i-medicin-eller-fysiologi/?fbclid=IwAR2VYsx1IQdsxrsezI62ZJrkNbvUHf2vk3DTEIalv_4bgIzytJsBNUkuS7g)
+- [Hur mår jorden i krisen](https://ungaforskare.se/2020/04/22/earth-day-hur-mar-jorden-i-krisen/?fbclid=IwAR0LMFwiFbVNG5ppnjSs1QQdA1ZmykmavDdxPXW79fqIyMN3kh1IK21c3vE)
 
 For iGEM 2019:
 
@@ -69,11 +73,12 @@ For iGEM 2019:
 
 ### Books I like <a name="books"></a>
 
-Top
+**Top**
 
 - Science fictions, Stuart Ritchie
+- To be decided...
 
-Natural Sciences
+**Natural Sciences**
 
 - The structure of scientific revolutions, Thomas Kuhn
 - The selfish gene, Richard Dawkins
@@ -98,7 +103,7 @@ Natural Sciences
 - The maths that made us
 - The zoologists guide to the galaxy
 
-Social sciences
+**Social sciences**
 
 - Thinking fast and slow, Kahneman
 - Enlightenment now
@@ -108,7 +113,7 @@ Social sciences
 - The problem with everything
 - Predictably irrational
 
-Philosophy
+**Philosophy**
 
 - The art of logic
 - Reality+
@@ -121,7 +126,7 @@ Philosophy
 - Life 3.0
 - Conciousness
 
-Classics
+**Classics**
 
 - Consolidations, David Whyte
 - The man who mistook his wife for a hat, Oliver Sacks
@@ -162,7 +167,7 @@ _Presenting my masters thesis at Lunds University (2022)._
 ![](/img/nordic.jpg)
 _Presenting the iGEM project at NIC._
 
-![](/img/ufl.jpg)
+![](/img/ufl.jpeg)
 _Post award ceremony at the final of the national science competition._
 
 ![](/img/nobel.jpg)
