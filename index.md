@@ -6,14 +6,16 @@ Here is my [CV](_docs/CV2023.pdf)
 
 This page serves as my personal portfolio, and I publish whatever I feel like on it. This may be my latest articles, posts or code-repositories. It's open for everyone, but is partly for myself to keep track of things I have scattered all over the web.
 
-# Table of contents
+## Table of contents
 
-1. [Publications](#publications)
-2. [Things I like](#likes)
-   1. [Books](#books)
-   2. [Websites and videos](#books)
-   3. [Papers](#books)
-3. [Things I've written](#written)
+- [About me](#about-me)
+  - [Table of contents](#table-of-contents)
+  - [Publications ](#publications-)
+  - [Things I like ](#things-i-like-)
+    - [Books I like ](#books-i-like-)
+    - [Videos and websites I like ](#videos-and-websites-i-like-)
+    - [Papers I like ](#papers-i-like-)
+  - [Things I've written ](#things-ive-written-)
 
 ## Publications <a name="publications"></a>
 
@@ -25,6 +27,6 @@ This page serves as my personal portfolio, and I publish whatever I feel like on
 
 ### Papers I like <a name="papers"></a>
 
-## Things I've written <a name="written>
+## Things I've written <a name="written">
 
-- [test](_pages/test.md)
+- [test]({{ '/_research_projects/project1.md' | /_pages/test.md }})
