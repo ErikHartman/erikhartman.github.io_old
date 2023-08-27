@@ -26,6 +26,8 @@ Nothing to show for now.
 
 ## Publications <a name="publications"></a>
 
+Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publication/9103197) (_Biologically informed neural network for subphenotype classification in septic AKI_).
+
 ### First authored
 
 - [_Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides_](https://www.frontiersin.org/articles/10.3389/fimmu.2020.620707/full)
@@ -67,27 +69,21 @@ For iGEM 2019:
 
 ### Books I like <a name="books"></a>
 
-- The selfish gene, Richard Dawkins
-- The greatest show on earth, Richard Dawkins
-- The God delusion, Richard Dawkins
-- Moral landscape, Sam Harris
-- Free will, Sam Harris
-- Consolidations, David Whyte
+Top
+
+- Science fictions, Stuart Ritchie
+
+Natural Sciences
+
 - The structure of scientific revolutions, Thomas Kuhn
-- Gödel, Escher, Bach, Douglas R. Hofstadter
-- Thinking fast and slow, Kahneman
-- Surely you're joking, Mr Feynman!, Richard Feynman
-- The importance of being interested
-- Transformer
-- The art of logic
-- Reality+
+- The selfish gene, Richard Dawkins
 - Love & Math
 - The quantum astrologers handbook
-- The man who mistook his wife for a hat
-- An anthropologist on mars
+- Gödel, Escher, Bach, Douglas R. Hofstadter
 - The epigenetics revolution
-- Me and my microbesetic
+- Me and my microbiome
 - The gene, Siddhartha Mukeherjee
+- The greatest show on earth, Richard Dawkins
 - Behave, Robert M. Sapolsky
 - Cosmos, Stephen Hawking
 - The grand design, Stephen Hawking
@@ -95,32 +91,51 @@ For iGEM 2019:
 - Pale blue dot, Carl Sagan
 - The dragons of eden, Carl Sagan
 - Cosmic Pussle, Joanna Rose
+- The God delusion, Richard Dawkins
 - A beautiful question
-- Science fictions, Stuart Ritchie
+- Transformer
+- Surely you're joking, Mr Feynman!, Richard Feynman
 - The maths that made us
 - The zoologists guide to the galaxy
-- Superintelligence, Nick Boström
-- Practical ethics, Peter Singer
-- 12 rules for life
+
+Social sciences
+
+- Thinking fast and slow, Kahneman
 - Enlightenment now
 - The blank slate
 - Sapiens
 - Homo Deus
 - The problem with everything
 - Predictably irrational
+
+Philosophy
+
+- The art of logic
+- Reality+
+- Moral landscape, Sam Harris
+- Free will, Sam Harris
+- Superintelligence, Nick Boström
+- Practical ethics, Peter Singer
+- 12 rules for life
+- The importance of being interested
 - Life 3.0
+- Conciousness
+
+Classics
+
+- Consolidations, David Whyte
+- The man who mistook his wife for a hat, Oliver Sacks
+- An anthropologist on mars, Oliver Sacks
 
 ### Videos and websites I like <a name="websites"></a>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=hfMk-kjRv4c&t=14s&ab_channel=SebastianLague">
-</iframe>
+- [How to Create a Neural Network (and Train it to Identify Doodles)](https://www.youtube.com/watch?v=hfMk-kjRv4c&t=14s&ab_channel=SebastianLague)
+- Also anything else by Sebastian Lague
 
 ### Papers I like <a name="papers"></a>
 
-- https://www.nature.com/articles/s41467-022-34031-z
-- https://www.nature.com/articles/s41598-019-41695-z
--
+- [Combining mass spectrometry and machine learning to discover bioactive peptides](https://www.nature.com/articles/s41467-022-34031-z)
+- [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)
 
 ## Powerlifting
 
@@ -143,3 +158,21 @@ _After winning 3rd place award at intel ISEF in 2018._
 
 ![](/img/master_thesis.jpg)
 _Presenting my masters thesis at Lunds University (2022)._
+
+![](/img/nordic.jpg)
+_Presenting the iGEM project at NIC._
+
+![](/img/ufl.jpg)
+_Post award ceremony at the final of the national science competition._
+
+![](/img/nobel.jpg)
+_Pre-Nobel dinner with the SIYSS gang._
+
+![](/img/doc.jpg)
+_Panel discussion @ Doc Lounge._
+
+![](/img/unicup2023.jpg)
+_European University Cup 2023._
+
+![](/img/unicup2022.jpg)
+_European University Cup 2023._
