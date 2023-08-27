@@ -6,8 +6,6 @@ title: Erik Hartman
 description: Personal site
 email: erik.hartman@hotmail.com
 
-baseurl: /
-
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
