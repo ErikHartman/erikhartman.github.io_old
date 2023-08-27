@@ -1,7 +1,5 @@
 # About me
 
-<img src="img/memoji.png" alt="me" width="200" style="display:inline-block;margin:auto;"/>
-
 Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new methods in means to de-convolute [_omics_-data](https://en.wikipedia.org/wiki/Omics).
 
 Here is my [CV](_docs/CV2023.pdf)
