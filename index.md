@@ -29,4 +29,4 @@ This page serves as my personal portfolio, and I publish whatever I feel like on
 
 ## Things I've written <a name="written">
 
-- [test]({{ site.baseurl }}{% link _pages/test.md %})
+[test](/pages/test.md)
