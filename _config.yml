@@ -4,3 +4,10 @@ plugins:
 
 title: Erik Hartman
 description: Personal site
+email: erik.hartman@hotmail.com
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+  auto_ids: true
