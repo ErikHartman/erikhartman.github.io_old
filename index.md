@@ -2,7 +2,7 @@
 
 Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new methods in means to de-convolute [_omics_-data](https://en.wikipedia.org/wiki/Omics) (mainly proteomics and peptidomics).
 
-**Here is my [CV](/docs/CV2023.pdf).**
+**Here is my [CV](/docs/CV2023.pdf)** (updated February 2023).
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
     - [Co-authored](#co-authored)
   - [Things I've written / talked about ](#things-ive-written--talked-about-)
   - [Things I like ](#things-i-like-)
-    - [Books I like ](#books-i-like-)
     - [Videos and websites I like ](#videos-and-websites-i-like-)
     - [Papers I like ](#papers-i-like-)
   - [Powerlifting](#powerlifting)
@@ -50,11 +49,11 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 
 ## Things I've written / talked about <a name="written">
 
-- [Synthetic biology: Playing God, life or machine, bioterrorism and biotechnological singularities - a reason for urgency](/pages/synthethics.md)
+- [Synthetic biology: Playing God, life or machine, bioterrorism and biotechnological singularities - a reason for urgency](/posts/synthethics.md)
 - [Drop the STEM podcast: Endogenous Peptide as an Alternative to Antibiotics, Sutures Coated with TCP-25 - Erik Hartman](https://soundcloud.com/user-997890267/14-endogenous-peptide-as-an-alternative-to-antibiotics-sutures-coated-with-tcp-25-erik-hartman)
 - [Syntetisk biologi för nybörjare (kursmaterial)](/docs/synthetic-biology-for-beginners.pdf)
 - [AISS Live: Genetics and Artificial Intelligence](https://www.youtube.com/watch?v=lv9vgVm-AEo&t=3274s&ab_channel=TheArtificialIntelligenceStudentSocietyatUP)
-- [Bioterrorism in light of SARS-Cov-2](/pages/corona-epidemic-eye-opener.md)
+- [Bioterrorism in light of SARS-Cov-2](/posts/corona-epidemic-eye-opener.md)
 
 For the society of young scientists:
 
@@ -66,71 +65,12 @@ For the society of young scientists:
 For iGEM 2019:
 
 - [iGEM Team Lund 2019 website](https://2019.igem.org/Team:Lund)
-- [A brief history: Probiotics](/pages/a-brief-history-probiotics.md)
-- [Synthetic biology: the era for engineers](/pages/synthetic-biology-the-era-for-engineers.md)
+- [A brief history: Probiotics](/posts/a-brief-history-probiotics.md)
+- [Synthetic biology: the era for engineers](/posts/synthetic-biology-the-era-for-engineers.md)
 
 ## Things I like <a name="likes"></a>
 
-### Books I like <a name="books"></a>
-
-**Top**
-
-- Science fictions, Stuart Ritchie
-- To be decided...
-
-**Natural Sciences**
-
-- The structure of scientific revolutions, Thomas Kuhn
-- The selfish gene, Richard Dawkins
-- Love & Math
-- The quantum astrologers handbook
-- Gödel, Escher, Bach, Douglas R. Hofstadter
-- The epigenetics revolution
-- Me and my microbiome
-- The gene, Siddhartha Mukeherjee
-- The greatest show on earth, Richard Dawkins
-- Behave, Robert M. Sapolsky
-- Cosmos, Stephen Hawking
-- The grand design, Stephen Hawking
-- The elegant universe, Brian Greene
-- Pale blue dot, Carl Sagan
-- The dragons of eden, Carl Sagan
-- Cosmic Pussle, Joanna Rose
-- The God delusion, Richard Dawkins
-- A beautiful question
-- Transformer
-- Surely you're joking, Mr Feynman!, Richard Feynman
-- The maths that made us
-- The zoologists guide to the galaxy
-
-**Social sciences**
-
-- Thinking fast and slow, Kahneman
-- Enlightenment now
-- The blank slate
-- Sapiens
-- Homo Deus
-- The problem with everything
-- Predictably irrational
-
-**Philosophy**
-
-- The art of logic
-- Reality+
-- Moral landscape, Sam Harris
-- Free will, Sam Harris
-- Superintelligence, Nick Boström
-- Practical ethics, Peter Singer
-- 12 rules for life
-- The importance of being interested
-- Life 3.0
-- Conciousness
-
-**Classics**
-
-- Consolidations, David Whyte
-- The man who mistook his wife for a hat, Oliver Sacks
-- An anthropologist on mars, Oliver Sacks
+[Books I like](/pages/books.md)
 
 ### Videos and websites I like <a name="websites"></a>
 
@@ -167,7 +107,7 @@ _Presenting my masters thesis at Lunds University (2022)._
 ![](/img/nordic.jpg)
 _Presenting the iGEM project at NIC._
 
-![](/img/ufl.jpeg)
+![](/img/uuf.jpeg)
 _Post award ceremony at the final of the national science competition._
 
 ![](/img/nobel.jpg)
@@ -180,4 +120,4 @@ _Panel discussion @ Doc Lounge._
 _European University Cup 2023._
 
 ![](/img/unicup2022.jpg)
-_European University Cup 2023._
+_European University Cup 2022._
