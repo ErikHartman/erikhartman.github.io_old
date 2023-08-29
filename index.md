@@ -86,7 +86,7 @@ For iGEM 2019:
 
 Dedicated instagram: [@erik.hartman](https://www.instagram.com/erik.hartman/?hl=en).
 
-- [Lundagård: SPORT: De ska lyfta Lund till tungt EM-guld](https://www.lundagard.se/2022/02/08/sport-de-ska-lyfta-lund-till-tungt-em-guld/)
+- [Lundagård SPORT: De ska lyfta Lund till tungt EM-guld](https://www.lundagard.se/2022/02/08/sport-de-ska-lyfta-lund-till-tungt-em-guld/)
 
 ## Photos
 
@@ -107,7 +107,7 @@ _Presenting my masters thesis at Lunds University (2022)._
 ![](/img/nordic.jpg)
 _Presenting the iGEM project at NIC._
 
-![](/img/uuf.jpeg)
+![](/img/uuf.jpg)
 _Post award ceremony at the final of the national science competition._
 
 ![](/img/nobel.jpg)
