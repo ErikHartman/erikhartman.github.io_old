@@ -115,13 +115,13 @@ Dedicated instagram: [@erik.hartman](https://www.instagram.com/erik.hartman/?hl=
 Photos of nice memories.
 
 ![](/img/igem.jpg)
-_After winning gold in iGEM 2019 with team Lund._
+_After iGEM 2019 with team Lund._
 
 ![](/img/ufl.jpeg)
 _The Swedish national team in science (2018, after the national science competition)._
 
 ![](/img/nikita-och-erik-grand-award-2018.jpg)
-_After winning 3rd place award at intel ISEF in 2018._
+_After the awards-ceremony at intel ISEF in 2018._
 
 ![](/img/master_thesis.jpg)
 _Presenting my masters thesis at Lunds University (2022)._
@@ -136,7 +136,7 @@ _Post award ceremony at the final of the national science competition._
 _Pre-Nobel dinner with the SIYSS gang._
 
 ![](/img/doc.jpg)
-_Panel discussion @ Doc Lounge._
+_Panel discussion at Doc Lounge._
 
 ![](/img/unicup2023.jpg)
 _European University Cup 2023._
