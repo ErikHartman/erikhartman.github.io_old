@@ -4,7 +4,7 @@ plugins:
 
 title: Personal site | Erik Hartman
 description:
-  <img src=" {{site.baseurl}}/img/memoji.png" alt="me" style="display:inline-block;margin:auto;"/>
+  <img src=" {{site.imagepath}}/memoji.png" alt="me" style="display:inline-block;margin:auto;"/>
   <p>Researcher @ Dept. infection medicine proteomics, Lund University</p>
   <p><a href="https://www.linkedin.com/in/erik-hartman-155b98170/">https://www.linkedin.com/in/erik-hartman-155b98170/</a></p>
   <p> ORCID:0000-0001-9997-2405 </p>
@@ -14,6 +14,7 @@ description:
 email: erik.hartman@hotmail.com
 github_username: ErikHartman
 baseurl: .
+image-path: /img
 
 kramdown:
   math_engine: mathjax
