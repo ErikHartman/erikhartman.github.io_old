@@ -9,6 +9,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 - [About me](#about-me)
   - [Table of contents](#table-of-contents)
   - [Featured](#featured)
+    - [September 2023](#september-2023)
   - [Publications ](#publications-)
     - [First authored](#first-authored)
     - [Co-authored](#co-authored)
@@ -21,8 +22,10 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
-- **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications: https://www.nature.com/articles/s41467-023-41146-4
-- **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv: https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1
+### September 2023
+
+- **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications!
+- **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv.
 
 ## Publications <a name="publications"></a>
 
@@ -87,7 +90,7 @@ For iGEM 2019:
 ### Videos and websites I like <a name="websites"></a>
 
 - [How to Create a Neural Network (and Train it to Identify Doodles)](https://www.youtube.com/watch?v=hfMk-kjRv4c&t=14s&ab_channel=SebastianLague)
-- Also anything else by Sebastian Lague
+  - Also anything else by Sebastian Lague
 
 ### Papers I like <a name="papers"></a>
 
