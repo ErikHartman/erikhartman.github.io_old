@@ -14,6 +14,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
     - [First authored](#first-authored)
     - [Co-authored](#co-authored)
   - [Things I've written / talked about ](#things-ive-written--talked-about-)
+    - [Blog](#blog)
   - [Things I like ](#things-i-like-)
     - [Videos and websites I like ](#videos-and-websites-i-like-)
     - [Papers I like ](#papers-i-like-)
@@ -83,6 +84,10 @@ For iGEM 2019:
 - [A brief history: Probiotics](/posts/a-brief-history-probiotics.md)
 - [Synthetic biology: the era for engineers](/posts/synthetic-biology-the-era-for-engineers.md)
 
+### Blog
+
+Nothing here for now.
+
 ## Things I like <a name="likes"></a>
 
 [Books I like](/pages/books.md)
@@ -90,7 +95,7 @@ For iGEM 2019:
 ### Videos and websites I like <a name="websites"></a>
 
 - [How to Create a Neural Network (and Train it to Identify Doodles)](https://www.youtube.com/watch?v=hfMk-kjRv4c&t=14s&ab_channel=SebastianLague)
-  - Also anything else by Sebastian Lague
+  - Also anything else by [Sebastian Lague](https://www.youtube.com/@SebastianLague)
 
 ### Papers I like <a name="papers"></a>
 
