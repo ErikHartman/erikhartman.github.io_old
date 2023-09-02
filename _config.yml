@@ -2,7 +2,10 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: Personal site | Erik Hartman
+baseurl: .
+image-path: img
+
+title: Erik Hartman
 description:
   <img src="{{site.image-path}}/memoji.png" alt="me" style="display:inline-block;margin:auto;"/>
   <p>Researcher @ Dept. infection medicine proteomics, Lund University</p>
@@ -14,8 +17,6 @@ description:
 
 email: erik.hartman@hotmail.com
 github_username: ErikHartman
-baseurl: .
-image-path: img
 
 kramdown:
   math_engine: mathjax
