@@ -4,7 +4,7 @@
 
 Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new methods in means to de-convolute [_omics_-data](https://en.wikipedia.org/wiki/Omics) (mainly MS/MS proteomics and peptidomics).
 
-**Here is my [CV](/docs/CV2023.pdf)** (updated February 2023).
+**Here is my [CV](/docs/CV2023.pdf)** (updated 2023).
 
 ## Table of contents
 
@@ -25,9 +25,12 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
-### September 2023
+### September 2023s
 
-- **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications!
+I'm currently working on a project where I de-convolute peptidomic data in means to allow for large scale peptidomic analyses. More coming soon!
+
+- **Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation** published in Advanced Healthcare Materials.
+- 🥳 **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications! 🥳
 - **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv.
 
 ## Publications <a name="publications"></a>
@@ -51,6 +54,9 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
     Hartman E, Mahdavi S, Kjellström S and Schmidtchen A (2021)
 
 ### Co-authored
+
+-[_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://doi.org/10.1002/adhm.202300987)
+  - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen
 
 - [_Explainable machine learning for the identification of proteome states via the data processing kitchen sink_](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)
 
