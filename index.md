@@ -38,39 +38,36 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 
 ### First authored
 
-- 1. [_Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis_](https://www.nature.com/articles/s41467-023-41146-4)
+- [_Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis_](https://www.nature.com/articles/s41467-023-41146-4)
 
-  - Nature Communications -
-    Erik Hartman, Aaron M. Scott, Christofer Karlsson, Tirthankar Mohanty, Suvi T. Vaara, Adam Linder, Lars Malmström & Johan Malmström (2023)
+  - Nature Communications - Erik Hartman, Aaron M. Scott, Christofer Karlsson, Tirthankar Mohanty, Suvi T. Vaara, Adam Linder, Lars Malmström & Johan Malmström (2023)
 
-- 2. [_Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides_](https://www.frontiersin.org/articles/10.3389/fimmu.2020.620707/full)
+- [_Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides_](https://www.frontiersin.org/articles/10.3389/fimmu.2020.620707/full)
 
-  - Frontiers Immunology -
-    Hartman E, Wallblom K, van der Plas MJA, Petrlova J, Cai J, Saleh K, Kjellström S and Schmidtchen A (2021)
+  - Frontiers Immunology -Hartman E, Wallblom K, van der Plas MJA, Petrlova J, Cai J, Saleh K, Kjellström S and Schmidtchen A (2021)
 
-- 3. [_Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data. Front. Bioinform._](https://www.frontiersin.org/articles/10.3389/fbinf.2021.722466/full)
-  - Frontiers in Bioinformatics -
-    Hartman E, Mahdavi S, Kjellström S and Schmidtchen A (2021)
+- [_Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data. Front. Bioinform._](https://www.frontiersin.org/articles/10.3389/fbinf.2021.722466/full)
+  - Frontiers in Bioinformatics - Hartman E, Mahdavi S, Kjellström S and Schmidtchen A (2021)
 
 ### Co-authored
 
-- 1. [_Explainable machine learning for the identification of proteome states via the data processing kitchen sink_](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)
+- [_Explainable machine learning for the identification of proteome states via the data processing kitchen sink_](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)
 
   - bioRXiv - Aaron Michael Scott, Erik Hartman, Johan Malmstroem, Lars Malmstroem (2023)
 
-- 2. [_Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation_](https://www.sciencedirect.com/science/article/pii/S258900422302028X)
+- [_Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation_](https://www.sciencedirect.com/science/article/pii/S258900422302028X)
 
-- iScience - Jitka Petrlova, Erik Hartman, Ganna Petruk, Jeremy Chun Hwee Lim, Sunil Shankar Adav, Sven Kjellström, Manoj Puthia, Artur Schmidtchen (2023)
+  - iScience - Jitka Petrlova, Erik Hartman, Ganna Petruk, Jeremy Chun Hwee Lim, Sunil Shankar Adav, Sven Kjellström, Manoj Puthia, Artur Schmidtchen (2023)
 
-- 3. [_Generalized precursor prediction boosts identification rates and accuracy in mass spectrometry based proteomics_](https://www.nature.com/articles/s42003-023-04977-x)
+- [_Generalized precursor prediction boosts identification rates and accuracy in mass spectrometry based proteomics_](https://www.nature.com/articles/s42003-023-04977-x)
 
   - Nature Communications Biology - Aaron M. Scott Christofer Karlsson Tirthankar Mohanty Erik Hartmam Suvi T. Vaara Adam Linder Johan Malmström (2023)
 
-- 4. [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202300987)
+- [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202300987)
 
   - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen (2023)
 
-- 5. [_The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins_](<https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext>)
+- [_The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins_](<https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext>)
   - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
 
 ## Things I've written / talked about <a name="written">
