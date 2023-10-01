@@ -11,7 +11,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 - [About me](#about-me)
   - [Table of contents](#table-of-contents)
   - [Featured](#featured)
-    - [September 2023](#september-2023)
+    - [September 2023s](#september-2023s)
   - [Publications ](#publications-)
     - [First authored](#first-authored)
     - [Co-authored](#co-authored)
@@ -25,7 +25,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
-### September 2023
+### September 2023s
 
 - **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications!
 - **Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation** published in iScience!
