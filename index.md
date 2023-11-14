@@ -7,20 +7,19 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Table of contents  
 
-- [About me](#about-me)
-  - [Table of contents](#table-of-contents)
-  - [Featured](#featured)
-    - [September 2023s](#september-2023s)
-  - [Publications ](#publications-)
-    - [First authored](#first-authored)
-    - [Co-authored](#co-authored)
-  - [Things I've written / talked about ](#things-ive-written--talked-about-)
-    - [Blog](#blog)
-  - [Things I like ](#things-i-like-)
-    - [Videos and websites I like ](#videos-and-websites-i-like-)
-    - [Papers I like ](#papers-i-like-)
-  - [Powerlifting](#powerlifting)
-  - [Photos](#photos)
+- [Featured](#featured)
+   - [2023](#2023)
+      - [November 2023](#november-2023)
+      - [October 2023](#october-2023)
+      - [September 2023](#september-2023)
+- [Publications ](#publications-a-namepublicationsa)
+   - [First Authored](#first-authored)
+   - [Co-authored](#co-authored)
+- [Things I've written / talked about <a name="written">](#things-ive-written--talked-about-a-namewritten)
+- [Things I like ](#things-i-like-a-namelikesa)
+- [Powerlifting](#powerlifting)
+- [Photos](#photos)
+
 
 
 ## Featured
@@ -29,7 +28,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 ### 2023  
 
 #### November 2023
-- Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
+- Invited speaker to the University of Copenhagen to talk about feature selection in omics with deep learning and SHAP (BINN-paper).
 
 #### October 2023
 - Currently working on two cool projects. One in peptidomics and graph theory, and one in feature selection methods.
@@ -111,7 +110,7 @@ For iGEM 2019:
 
 ## Things I like <a name="likes"></a>
 
-[Books I like](/pages/books.md)
+Books I like: [my Goodreads profile](https://www.goodreads.com/user/show/171557165-erik-hartman)
 
 
 ## Powerlifting
