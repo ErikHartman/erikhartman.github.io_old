@@ -1,11 +1,5 @@
 # About me
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="sv_SE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="erik-hartman-155b98170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/erik-hartman-155b98170?trk=profile-badge">Erik Hartman</a></div>
-              
-
-<img src="{{site.image-path}}/memoji.png" alt="me" style="display:inline-block;margin:auto;max-width:30%"/>
 
 Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new computational methods in means of gaining new insight from [_omics_-data](https://en.wikipedia.org/wiki/Omics) (mainly MS/MS proteomics and peptidomics).
 
