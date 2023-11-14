@@ -2,7 +2,7 @@
 
 <img src="{{site.image-path}}/memoji.png" alt="me" style="display:inline-block;margin:auto;max-width:30%"/>
 
-Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new methods in means to de-convolute [_omics_-data](https://en.wikipedia.org/wiki/Omics) (mainly MS/MS proteomics and peptidomics).
+Welcome! I am a researcher in computational biology / bioinformatics with a focus on contriving new computational methods in means of gaining new insight from [_omics_-data](https://en.wikipedia.org/wiki/Omics) (mainly MS/MS proteomics and peptidomics).
 
 **Here is my [CV](/docs/CV2023.pdf)** (updated 2023).
 
@@ -27,10 +27,11 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ### September 2023s
 
-- **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications!
-- **Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation** published in iScience!
-- **Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation** published in Advanced Healthcare Materials!
-- **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv!
+I'm currently working on a project where I de-convolute peptidomic data in means to allow for large scale peptidomic analyses. More coming soon!
+
+- **Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation** published in Advanced Healthcare Materials.
+- 🥳 **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications! 🥳
+- **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv.
 
 ## Publications <a name="publications"></a>
 
@@ -51,6 +52,9 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 
 ### Co-authored
 
+- [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://doi.org/10.1002/adhm.202300987)
+  - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen (2023)
+
 - [_Explainable machine learning for the identification of proteome states via the data processing kitchen sink_](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)
 
   - bioRXiv - Aaron Michael Scott, Erik Hartman, Johan Malmstroem, Lars Malmstroem (2023)
@@ -64,10 +68,13 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
   - Nature Communications Biology - Aaron M. Scott Christofer Karlsson Tirthankar Mohanty Erik Hartmam Suvi T. Vaara Adam Linder Johan Malmström (2023)
 
 - [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202300987)
+  - Nature Communications - Biology  Aaron M. Scott; Christofer Karlsson; Tirthankar Mohanty; Erik Hartman; Suvi T. Vaara; Adam Linder; Johan Malmström (2023)
+- [_Protein aggregation in wound fluid confines bacterial lipopolysaccharide and reduces inflammation_](https://doi.org/10.1101/2023.01.27.525825)
 
   - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen (2023)
 
 - [_The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins_](<https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext>)
+  - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
   - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
 
 ## Things I've written / talked about <a name="written">
@@ -78,7 +85,7 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 - [AISS Live: Genetics and Artificial Intelligence](https://www.youtube.com/watch?v=lv9vgVm-AEo&t=3274s&ab_channel=TheArtificialIntelligenceStudentSocietyatUP)
 - [Bioterrorism in light of SARS-Cov-2](/posts/corona-epidemic-eye-opener.md)
 
-For the society of young scientists:
+For the society of young scientists (Unga Forskare):
 
 - [Läkartidningen debatt: Framtida krisberedskap kräver satsning på unga forskare](https://lakartidningen.se/opinion/debatt/2020/06/framtida-krisberedskap-kraver-satsning-pa-unga-forskare/)
 - [Nobelspecial: Så här funkar cancerbehandling och immunförsvar](https://ungaforskare.se/2018/10/01/nobelspecial-med-erik-hartman-sa-funkar-cancerbehandling-och-immunforsvar/)
@@ -91,25 +98,15 @@ For iGEM 2019:
 - [A brief history: Probiotics](/posts/a-brief-history-probiotics.md)
 - [Synthetic biology: the era for engineers](/posts/synthetic-biology-the-era-for-engineers.md)
 
-### Blog
-
-Nothing here for now.
 
 ## Things I like <a name="likes"></a>
 
 [Books I like](/pages/books.md)
 
-### Videos and websites I like <a name="websites"></a>
-
-- [How to Create a Neural Network (and Train it to Identify Doodles)](https://www.youtube.com/watch?v=hfMk-kjRv4c&t=14s&ab_channel=SebastianLague)
-  - Also anything else by [Sebastian Lague](https://www.youtube.com/@SebastianLague)
-
-### Papers I like <a name="papers"></a>
-
-- [Combining mass spectrometry and machine learning to discover bioactive peptides](https://www.nature.com/articles/s41467-022-34031-z)
-- [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)
 
 ## Powerlifting
+
+Project leader for a work-group which is set to create the new database for the Swedish Powerlifting Federation.
 
 Dedicated instagram: [@erik.hartman](https://www.instagram.com/erik.hartman/?hl=en).
 
