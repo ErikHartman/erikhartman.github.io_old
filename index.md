@@ -25,17 +25,17 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
-<details>
-<summary> 2023  </summary>
 
-### November 2023
+### 2023  
+
+#### November 2023
 - Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
 
-### October 2023
+#### October 2023
 - Currently working on two cool projects. One in peptidomics and graph theory, and one in feature selection methods.
 - Competed at the University World Cup in Slovenia. 🥉
 
-### September 2023
+#### September 2023
 
 I'm currently working on a project where I de-convolute peptidomic data in means to allow for large scale peptidomic analyses. More coming soon!
 
@@ -43,7 +43,7 @@ I'm currently working on a project where I de-convolute peptidomic data in means
 - 🥳 **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications! 🥳
 - **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv.
 
-</details>
+
 
 ## Publications <a name="publications"></a>
 
