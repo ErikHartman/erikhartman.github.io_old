@@ -25,7 +25,11 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
-### September 2023s
+### October 2023
+- Currently working on two cool projects. One in peptidomics and graph theory, and one in feature selection methods.
+- Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
+
+### September 2023
 
 I'm currently working on a project where I de-convolute peptidomic data in means to allow for large scale peptidomic analyses. More coming soon!
 
