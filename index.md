@@ -5,7 +5,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 **Here is my [CV](/docs/CV2023.pdf)** (updated 2023).
 
-## Table of contents
+## Table of contents  
 
 - [About me](#about-me)
   - [Table of contents](#table-of-contents)
@@ -22,9 +22,13 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
   - [Powerlifting](#powerlifting)
   - [Photos](#photos)
 
+
 ## Featured
 
-### November 
+<details>
+<summary> 2023  </summary>
+
+### November 2023
 - Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
 
 ### October 2023
@@ -39,22 +43,54 @@ I'm currently working on a project where I de-convolute peptidomic data in means
 - 🥳 **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis** published in Nature Communications! 🥳
 - **Explainable machine learning for the identification of proteome states via the data processing kitchen sink** submitted to bioRXiv.
 
+</details>
+
 ## Publications <a name="publications"></a>
 
 Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publication/9103197) (_Biologically informed neural network for subphenotype classification in septic AKI_).
 
 ### First authored
 
-- [_Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis_](https://www.nature.com/articles/s41467-023-41146-4)
-
-  - Nature Communications - Erik Hartman, Aaron M. Scott, Christofer Karlsson, Tirthankar Mohanty, Suvi T. Vaara, Adam Linder, Lars Malmström & Johan Malmström (2023)
-
-- [_Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides_](https://www.frontiersin.org/articles/10.3389/fimmu.2020.620707/full)
-
-  - Frontiers Immunology -Hartman E, Wallblom K, van der Plas MJA, Petrlova J, Cai J, Saleh K, Kjellström S and Schmidtchen A (2021)
-
-- [_Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data. Front. Bioinform._](https://www.frontiersin.org/articles/10.3389/fbinf.2021.722466/full)
-  - Frontiers in Bioinformatics - Hartman E, Mahdavi S, Kjellström S and Schmidtchen A (2021)
+```
+@article{Hartman2023,
+  doi = {10.1038/s41467-023-41146-4},
+  url = {https://doi.org/10.1038/s41467-023-41146-4},
+  year = {2023},
+  month = sep,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {14},
+  number = {1},
+  author = {Erik Hartman and Aaron M. Scott and Christofer Karlsson and Tirthankar Mohanty and Suvi T. Vaara and Adam Linder and Lars Malmstr\"{o}m and Johan Malmstr\"{o}m},
+  title = {Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis},
+  journal = {Nature Communications}
+}
+```
+```
+@article{Hartman2021,
+  doi = {10.3389/fimmu.2020.620707},
+  url = {https://doi.org/10.3389/fimmu.2020.620707},
+  year = {2021},
+  month = feb,
+  publisher = {Frontiers Media {SA}},
+  volume = {11},
+  author = {Erik Hartman and Karl Wallblom and Mariena J. A. van der Plas and Jitka Petrlova and Jun Cai and Karim Saleh and Sven Kjellstr\"{o}m and Artur Schmidtchen},
+  title = {Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides},
+  journal = {Frontiers in Immunology}
+}
+```
+```
+@article{Hartman2021,
+  doi = {10.3389/fbinf.2021.722466},
+  url = {https://doi.org/10.3389/fbinf.2021.722466},
+  year = {2021},
+  month = aug,
+  publisher = {Frontiers Media {SA}},
+  volume = {1},
+  author = {Erik Hartman and Simon Mahdavi and Sven Kjellstr\"{o}m and Artur Schmidtchen},
+  title = {Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data},
+  journal = {Frontiers in Bioinformatics}
+}
+```
 
 ### Co-authored
 
@@ -81,7 +117,7 @@ Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publicat
 
 - [_The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins_](<https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext>)
   - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
-  - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
+
 
 ## Things I've written / talked about <a name="written">
 
