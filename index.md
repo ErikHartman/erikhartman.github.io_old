@@ -24,9 +24,12 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ## Featured
 
+### November 
+- Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
+
 ### October 2023
 - Currently working on two cool projects. One in peptidomics and graph theory, and one in feature selection methods.
-- Invited speaker to the University of Copenhagen to talk about feature selection in omics (BINN-paper).
+- Competed at the University World Cup in Slovenia. 🥉
 
 ### September 2023
 

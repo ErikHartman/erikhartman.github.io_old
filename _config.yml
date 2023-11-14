@@ -7,12 +7,12 @@ image-path: img
 
 title: Erik Hartman
 description:
-  <p>Researcher @ Dept. infection medicine proteomics, Lund University</p>
-  <p> ORCID:0000-0001-9997-2405 </p>
-  <p>This page serves as my personal portfolio/resume, and I publish whatever I feel like on it. This may be my latest articles, posts or code-repositories.
-  It's open for everyone, but is partly for myself to keep track of things I have scattered all over the web.</p>
   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="sv_SE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="erik-hartman-155b98170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/erik-hartman-155b98170?trk=profile-badge"></a></div>
+  <p> <a href="https://orcid.org/0000-0001-9997-2405"> ORCID:0000-0001-9997-2405 <a></p>
+  <p>This page serves as my personal portfolio/resume, and I publish whatever I feel like on it. This may be my latest articles, posts or code-repositories.
+  It's open for everyone, but is partly for myself to keep track of things I have scattered all over the web.</p>
+  
               
 email: erik.hartman@hotmail.com
 github_username: ErikHartman
