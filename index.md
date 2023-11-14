@@ -49,75 +49,43 @@ I'm currently working on a project where I de-convolute peptidomic data in means
 
 Here is my [masters thesis](https://lup.lub.lu.se/student-papers/search/publication/9103197) (_Biologically informed neural network for subphenotype classification in septic AKI_).
 
-### First authored
+Certainly! I've added bold formatting to "Erik Hartman" for each entry:
 
-```
-@article{Hartman2023,
-  doi = {10.1038/s41467-023-41146-4},
-  url = {https://doi.org/10.1038/s41467-023-41146-4},
-  year = {2023},
-  month = sep,
-  publisher = {Springer Science and Business Media {LLC}},
-  volume = {14},
-  number = {1},
-  author = {Erik Hartman and Aaron M. Scott and Christofer Karlsson and Tirthankar Mohanty and Suvi T. Vaara and Adam Linder and Lars Malmstr\"{o}m and Johan Malmstr\"{o}m},
-  title = {Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis},
-  journal = {Nature Communications}
-}
-```
-```
-@article{Hartman2021,
-  doi = {10.3389/fimmu.2020.620707},
-  url = {https://doi.org/10.3389/fimmu.2020.620707},
-  year = {2021},
-  month = feb,
-  publisher = {Frontiers Media {SA}},
-  volume = {11},
-  author = {Erik Hartman and Karl Wallblom and Mariena J. A. van der Plas and Jitka Petrlova and Jun Cai and Karim Saleh and Sven Kjellstr\"{o}m and Artur Schmidtchen},
-  title = {Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides},
-  journal = {Frontiers in Immunology}
-}
-```
-```
-@article{Hartman2021,
-  doi = {10.3389/fbinf.2021.722466},
-  url = {https://doi.org/10.3389/fbinf.2021.722466},
-  year = {2021},
-  month = aug,
-  publisher = {Frontiers Media {SA}},
-  volume = {1},
-  author = {Erik Hartman and Simon Mahdavi and Sven Kjellstr\"{o}m and Artur Schmidtchen},
-  title = {Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data},
-  journal = {Frontiers in Bioinformatics}
-}
-```
+### First Authored
+
+1. **Interpreting biologically informed neural networks for enhanced proteomic biomarker discovery and pathway analysis**
+   - ***Erik Hartman***, Aaron M. Scott, Christofer Karlsson, Tirthankar Mohanty, Suvi T. Vaara, Adam Linder, Lars Malmström, Johan Malmström
+   - *Nature Communications, 2023, 14(1), [DOI: 10.1038/s41467-023-41146-4](https://doi.org/10.1038/s41467-023-41146-4)*
+
+2. **Bioinformatic Analysis of the Wound Peptidome Reveals Potential Biomarkers and Antimicrobial Peptides**
+   - ***Erik Hartman***, Karl Wallblom, Mariena J. A. van der Plas, Jitka Petrlova, Jun Cai, Karim Saleh, Sven Kjellström, Artur Schmidtchen
+   - *Frontiers in Immunology, 2021, 11, [DOI: 10.3389/fimmu.2020.620707](https://doi.org/10.3389/fimmu.2020.620707)*
+
+3. **Peptimetric: Quantifying and Visualizing Differences in Peptidomic Data**
+   - ***Erik Hartman***, Simon Mahdavi, Sven Kjellström, Artur Schmidtchen
+   - *Frontiers in Bioinformatics, 2021, 1, [DOI: 10.3389/fbinf.2021.722466](https://doi.org/10.3389/fbinf.2021.722466)*
 
 ### Co-authored
 
-- [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://doi.org/10.1002/adhm.202300987)
-  - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen (2023)
+1. **Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation**
+   - *Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, ***Erik Hartman***, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen*
+   - *Advanced Healthcare Materials, 2023, [DOI: 10.1002/adhm.202300987](https://doi.org/10.1002/adhm.202300987)*
 
-- [_Explainable machine learning for the identification of proteome states via the data processing kitchen sink_](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)
+2. **Explainable machine learning for the identification of proteome states via the data processing kitchen sink**
+   - *Aaron M. Scott, ***Erik Hartman***, Johan Malmstroem, Lars Malmstroem*
+   - *bioRXiv, 2023, [DOI: 10.1101/2023.08.30.555506v1](https://www.biorxiv.org/content/10.1101/2023.08.30.555506v1)*
 
-  - bioRXiv - Aaron Michael Scott, Erik Hartman, Johan Malmstroem, Lars Malmstroem (2023)
+3. **Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation**
+   - *Jitka Petrlova, ***Erik Hartman***, Ganna Petruk, Jeremy Chun Hwee Lim, Sunil Shankar Adav, Sven Kjellström, Manoj Puthia, Artur Schmidtchen*
+   - *iScience, 2023, [DOI: 10.1016/j.isci.2023.103246](https://www.sciencedirect.com/science/article/pii/S258900422302028X)*
 
-- [_Selective protein aggregation confines and inhibits endotoxins in wounds: Linking host defense to amyloid formation_](https://www.sciencedirect.com/science/article/pii/S258900422302028X)
+4. **Generalized precursor prediction boosts identification rates and accuracy in mass spectrometry-based proteomics**
+   - *Aaron M. Scott, Christofer Karlsson, Tirthankar Mohanty, ***Erik Hartman***, Suvi T. Vaara, Adam Linder, Johan Malmström*
+   - *Nature Communications Biology, 2023, [DOI: 10.1038/s42003-023-04977-x](https://www.nature.com/articles/s42003-023-04977-x)*
 
-  - iScience - Jitka Petrlova, Erik Hartman, Ganna Petruk, Jeremy Chun Hwee Lim, Sunil Shankar Adav, Sven Kjellström, Manoj Puthia, Artur Schmidtchen (2023)
-
-- [_Generalized precursor prediction boosts identification rates and accuracy in mass spectrometry based proteomics_](https://www.nature.com/articles/s42003-023-04977-x)
-
-  - Nature Communications Biology - Aaron M. Scott Christofer Karlsson Tirthankar Mohanty Erik Hartmam Suvi T. Vaara Adam Linder Johan Malmström (2023)
-
-- [_Bioactive Suture with Added Innate Defense Functionality for the Reduction of Bacterial Infection and Inflammation_](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202300987)
-  - Nature Communications - Biology  Aaron M. Scott; Christofer Karlsson; Tirthankar Mohanty; Erik Hartman; Suvi T. Vaara; Adam Linder; Johan Malmström (2023)
-- [_Protein aggregation in wound fluid confines bacterial lipopolysaccharide and reduces inflammation_](https://doi.org/10.1101/2023.01.27.525825)
-
-  - Advanced Healthcare Materials - Manoj Puthia, Jitka Petrlova, Ganna Petruk, Marta Butrym, Firdaus Samsudin, Madelene Å Andersson, Ann-Charlotte Strömdahl, Sebastian Wasserstrom, Erik Hartman, Sven Kjellström, Lucrezia Caselli, Oxana Klementieva, Peter J. Bond, Martin Malmsten, Deepak Bushan Raina, Artur Schmidtchen (2023)
-
-- [_The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins_](<https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext>)
-  - Journal of Lipid Research - Ganna Petruk; Malin Johansson, Malin Elvén; Erik Hartman; Mina Davoudi; Artur Schmidtchen; Manoj Puthia; Jitka Petrlova (2021)
-
+5. **The role of full-length apoE in clearance of Gram-negative bacteria and their endotoxins**
+   - *Ganna Petruk, Malin Johansson, Malin Elvén, ***Erik Hartman***, Mina Davoudi, Artur Schmidtchen, Manoj Puthia, Jitka Petrlova*
+   - *Journal of Lipid Research, 2021, [DOI: 10.1194/jlr.RA121000068](https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext)*
 
 ## Things I've written / talked about <a name="written">
 
