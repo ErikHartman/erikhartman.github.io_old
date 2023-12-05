@@ -9,9 +9,9 @@ Word has too much functionality. For scientific articles, all you really need is
 4. write mathematical expressions/chemical formulae etc.
 5. reference and cite.
 
-Beyond this, Word offers a bunch of things which really is just bloat, like different fonts, shapes, colors, etc. It also is severely lacking in points 4 and 5. Also, it uses the .docx-format, which is impossible to read without Word.
+Beyond this, Word offers a bunch of things which really is just bloat, like different fonts, shapes, colors, etc. It also is severely lacking in points 4 and 5. Also, it uses the .docx-format, which is impossible to read without using Word.
 
-LaTeX is way better in points 4 and 5, as writing mathematical expressions and referencing using .bib is extremely easy. It also cuts down on the bloat. However, it has a bit of a learning curve, is a pain to set up and has several quirks that you have to get used to. You can skip the setup by using Overleaf, but then you restrict your writing to having internet access and you're relying on Overleaf servers.
+LaTeX is way better in points 4 and 5, as writing mathematical expressions and referencing using .bib is extremely easy. It also cuts down on the bloat. However, it has a bit of a learning curve, is a pain to set up and has several quirks that you have to get used to. You can skip the setup by using Overleaf, but then you restrict your writing to having internet access, and you're relying on Overleaf servers.
 
 In the end, I've settled on writing in pure **Markdown** and use a set of tools to get everything you need to write scientific articles.
 
@@ -65,3 +65,8 @@ Markdown Preview Enhanced (https://shd101wyy.github.io/markdown-preview-enhanced
 The magic sets in when you combine Markdown Preview Enhanced with Pandoc. Pandoc is a versatile document converter and markup language processor that allows for the conversion between different document formats, and it integrates with Markdown Preview Enhanced.
 
 By specifying arguments in the header of your document, you can export your .md file to many other formats. I've used it for creating .docx and .pdf-files, and in both cases it has created well-stylized files.
+
+<div>
+    <img source="../img/md_word.png">
+    <img source="../img/md_pdf.png">
+</div>
