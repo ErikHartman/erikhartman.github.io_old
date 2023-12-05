@@ -15,7 +15,7 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 - [Publications ](#publications-a-namepublicationsa)
    - [First Authored](#first-authored)
    - [Co-authored](#co-authored)
-- [Things I've written / talked about <a name="written">](#things-ive-written--talked-about-a-namewritten)
+- [Things I've written / talked about](#things-ive-written--talked-about)
 - [Things I like ](#things-i-like-a-namelikesa)
 - [Powerlifting](#powerlifting)
 - [Photos](#photos)
@@ -86,7 +86,7 @@ Certainly! I've added bold formatting to "Erik Hartman" for each entry:
    - *Ganna Petruk, Malin Johansson, Malin Elvén, ***Erik Hartman***, Mina Davoudi, Artur Schmidtchen, Manoj Puthia, Jitka Petrlova*
    - *Journal of Lipid Research, 2021, [DOI: 10.1194/jlr.RA121000068](https://www.jlr.org/article/S0022-2275(21)00068-7/fulltext)*
 
-## Things I've written / talked about <a name="written">
+## Things I've written / talked about
 
 - [Synthetic biology: Playing God, life or machine, bioterrorism and biotechnological singularities - a reason for urgency](/posts/synthethics.md)
 - [Drop the STEM podcast: Endogenous Peptide as an Alternative to Antibiotics, Sutures Coated with TCP-25 - Erik Hartman](https://soundcloud.com/user-997890267/14-endogenous-peptide-as-an-alternative-to-antibiotics-sutures-coated-with-tcp-25-erik-hartman)
