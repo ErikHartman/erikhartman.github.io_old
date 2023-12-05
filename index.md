@@ -27,6 +27,10 @@ Welcome! I am a researcher in computational biology / bioinformatics with a focu
 
 ### 2023  
 
+#### December 2023
+- Continued work on peptidomics paper.
+- Started writing an article about [how to write academic articles in markdown](posts/markdown-papers.md)!
+
 #### November 2023
 - Invited speaker to the University of Copenhagen to talk about feature selection in omics with deep learning and SHAP (BINN-paper).
 
