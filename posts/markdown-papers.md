@@ -6,7 +6,7 @@
 - [Pandoc](https://pandoc.org/) to export to any format (Word/PDF in my cases).
 - [lua-filters](https://github.com/pandoc/lua-filters) and .tex-templates to stylize the documents 
 
-It's really nice. Here are some more extensive articles / videos about writing academic papers in markdown:
+It's really nice. Here are some more extensive articles / videos about writing academic papers in markdown which uses a similar workflow to mine:
 
 - [This article by Jaan Tollander is really good.](https://jaantollander.com/post/scientific-writing-with-markdown/)
 - [Extensive video](https://www.youtube.com/watch?v=J86Pm62XM_Q)
