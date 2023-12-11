@@ -31,16 +31,6 @@ LaTeX is way better in points 4 and 5, as writing mathematical expressions and r
 
 In the end, I've settled on writing in pure **Markdown** and use a set of tools to get everything you need to write scientific articles. I keep my paper-files in a subdirectory in the .git-repo for my project, so that everything is kept in .git and is in the same place. I then use Markdown Preview Enchanced and Pandoc to generate the desired formats.
 
-```mermaid
-flowchart LR
-
-Markdown---|Pandoc convert to|Word
-Markdown---|uses|LaTeX---|to convert to|PDF
-
-
-```
-
-
 ## What is Markdown
 Markdown is a lightweight markup language that uses plain text formatting syntax to create structured documents. Here are some basic examples of Markdown syntax:
 
