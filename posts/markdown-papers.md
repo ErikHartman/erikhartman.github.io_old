@@ -8,9 +8,9 @@
 
 It's really nice. Here are some more extensive articles / videos about writing academic papers in markdown which uses a similar workflow to mine:
 
-- [This article by Jaan Tollander is really good.](https://jaantollander.com/post/scientific-writing-with-markdown/)
-- [Extensive video](https://www.youtube.com/watch?v=J86Pm62XM_Q)
-- [Shorter article](https://brainbaking.com/post/2021/02/writing-academic-papers-in-markdown/)
+- [This article by Jaan Tollander is really all you need.](https://jaantollander.com/post/scientific-writing-with-markdown/)
+- [Extensive video by Shaping Openness.](https://www.youtube.com/watch?v=J86Pm62XM_Q)
+- [Shorter article by BrainBaking.](https://brainbaking.com/post/2021/02/writing-academic-papers-in-markdown/)
 
 ---
 
@@ -27,9 +27,9 @@ Word has too much functionality. For scientific articles, all you really need is
 
 Beyond this, Word offers a bunch of things which really is just bloat, like different fonts, shapes, colors, etc. It also is severely lacking in points 4 and 5. Also, it uses the .docx-format, which is impossible to read without using Word.
 
-LaTeX is way better in points 4 and 5, as writing mathematical expressions and referencing using .bib is extremely easy. It also cuts down on the bloat. However, it has a bit of a learning curve, is a pain to set up and has several quirks that you have to get used to. You can skip the setup by using Overleaf, but then you restrict your writing to having internet access, and you're relying on Overleaf servers.
+LaTeX is way better in points 4 and 5, as writing mathematical expressions and referencing using .bib is extremely easy. It also cuts down on the bloat. However, it has a bit of a learning curve, is a pain to set up and has several quirks that you have to get used to. You can skip the setup by using Overleaf, but then you restrict your writing to when having internet access, and you're relying on Overleaf servers.
 
-In the end, I've settled on writing in pure **Markdown** and use a set of tools to get everything you need to write scientific articles. I keep my paper-files in a subdirectory in the .git-repo for my project, so that everything is kept in .git and is in the same place. I then use Markdown Preview Enchanced and Pandoc to generate the desired formats.
+In the end, I've settled on writing in pure **Markdown** and use a set of tools to get everything you need to write scientific articles. I keep my paper-files in a subdirectory in the .git-repo for my project, so that everything is kept in .git and is in the same place. I then use Markdown Preview Enhanced and Pandoc to generate the desired formats.
 
 ## What is Markdown
 Markdown is a lightweight markup language that uses plain text formatting syntax to create structured documents. Here are some basic examples of Markdown syntax:
@@ -74,7 +74,7 @@ Code:
 
 The magic sets in when you combine Markdown Preview Enhanced with [Pandoc](https://pandoc.org/). Pandoc is a versatile document converter and markup language processor that allows for the conversion between different document formats, and it integrates with Markdown Preview Enhanced.
 
-By specifying arguments in the header of your document, you can export your .md file to many other formats. I've used it for creating .docx and .pdf-files, and in both cases it has created well-stylized files.
+By specifying arguments in the YAML-header of your document (see below), you can export your .md file to many other formats. I've used it for creating .docx and .pdf-files, and in both cases it has created well-stylized files.
 
 
 <div style="display: flex;">
@@ -87,6 +87,7 @@ By specifying arguments in the header of your document, you can export your .md 
 </div>
 
 
+
 ### The YAML-header
 To convert the file, you need to declare some properties the header of your markdown file. The header sits at the top of the file, and may look like this:
 
@@ -95,9 +96,13 @@ To convert the file, you need to declare some properties the header of your mark
 title: My title
 institute:
   - lu: Lund University
+  - ki: Karolinska institutet
 author: 
     - Erik Hartman
         institute: lu
+    - Author nr2
+        institute: ki
+    - etc...
 output:
   word_document:
     path: /paper/main.docx
